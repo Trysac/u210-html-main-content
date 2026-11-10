@@ -1,0 +1,1 @@
+{"lang": "python", "package": "trysac-html-main-content", "commands": {"install": [["uv", "sync", "--all-extras"]], "check": [["uv", "run", "python", "scripts/check.py"]]}}
