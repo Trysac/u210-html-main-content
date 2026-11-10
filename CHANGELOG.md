@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Added: extract main content from HTML with removal rules, density scoring, and CLI.
 - Initial project structure from the factory utility template.
