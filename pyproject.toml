@@ -19,6 +19,9 @@ classifiers = [
 ]
 dependencies = []
 
+[project.scripts]
+html-main-content = "html_main_content.__main__:main"
+
 [project.urls]
 Homepage = "https://github.com/Trysac/u210-html-main-content"
 Source = "https://github.com/Trysac/u210-html-main-content"
